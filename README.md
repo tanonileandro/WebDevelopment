@@ -1,8 +1,7 @@
 # WebDevelopment
 Content learned in the web development course and skills used that helped me to apply in different projects.
-<br>
-Course in Udemy: 
-<br>
+
+### <i><b>Course in Udemy</b></i>
 https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/
 
 ### <i><b>Skills used</b></i>
